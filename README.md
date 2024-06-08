@@ -54,7 +54,7 @@ The project uses three different machine learning models to predict temperature 
 * Linear Regression
 * Decision Tree Regression
 * Random Forest Regression
-Each model is trained using the preprocessed data and evaluated using mean squared error (MSE), mean absolute error (MAE), and R-squared.
++ Each model is trained using the preprocessed data and evaluated using mean squared error (MSE), mean absolute error (MAE), and R-squared.
 
 ### 5.2 Model Evaluation
 The performance of each model is evaluated using metrics such as MSE, MAE, and R-squared. The results are printed to the console for each model.
@@ -74,4 +74,4 @@ This project provides a comprehensive analysis of CO2 emissions in the agri-food
 | [Sharon Ramapuputla](https://github.com/Sharonramapuputla)                                  | sharonramapuputla24@gmail.com
 | [Karabo Mathibela](https://github.com/karabomathibela)                                      | karabomathibela44@gmail.com
 | [Pfarelo Ramunasi](https://github.com/PfareloRamunasi)                                      | pfareloramunasi@gmail.com
-| [Makhutjo Lehutjo](https://github.com/makhutso98)                                           | makhutjolehutjo8@gmail.com
+| [Mmakhutjo Lehutjo](https://github.com/makhutso98)                                          | makhutjolehutjo8@gmail.com
